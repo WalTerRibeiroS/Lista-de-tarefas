@@ -19,7 +19,7 @@ O usuário pode adicionar tarefas, marcar como concluídas e remover tarefas da 
 
 ## 🌎 Deploy
 
-Link da pagina
+Link da pagina https://walterribeiros.github.io/Lista-de-tarefas/
 
 ## 📸 Preview
 
